@@ -126,13 +126,13 @@ See the paper for the full ablation study (contribution of the contrastive loss,
 If you use this code in your research, please cite:
 
 ```bibtex
-@InProceedings{Dekhovich_2025_ICCV,
-    author    = {Dekhovich, Aleksandr and Soloviev, Oleg},
-    title     = {SupConWI-RL: wafer inspection with reinforcement learning enhanced by supervised contrastive learning},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops},
-    month     = {October},
-    year      = {2025},
-    pages     = {1396--1405}
+@inproceedings{dekhovich2025supconwi,
+  title={SupConWI-RL: Wafer inspection with reinforcement learning enhanced by supervised contrastive learning},
+  author={Dekhovich, Aleksandr and Soloviev, Oleg},
+  booktitle={2025 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)},
+  pages={1396--1405},
+  year={2025},
+  organization={IEEE}
 }
 ```
 
