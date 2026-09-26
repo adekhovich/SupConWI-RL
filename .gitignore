@@ -1,0 +1,37 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model checkpoints / weights
+*.pth
+*.pt
+*.ckpt
+tmp/
+
+# Datasets (paths in parser.py point outside the repo, but ignore common local copies too)
+*.npz
+*.pkl
+data/
+
+# Logs
+*.log
+runs/
+
+# Python packaging / envs
+*.egg-info/
+build/
+dist/
+.eggs/
+venv/
+.venv/
+env/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
